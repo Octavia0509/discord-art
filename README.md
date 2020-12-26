@@ -40,6 +40,6 @@ client.login(settings.token);
 * GitHub : [Cliquez ici](https://github.com/Luztog)
 
 ## 📝 License
-© Luztog - 2020-2021
+© Luztog#1910 - 2020-2021
 
 > Ce projet est sous license **MIT**.
